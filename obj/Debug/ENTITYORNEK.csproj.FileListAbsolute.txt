@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\obj\Debug\ENTITYORNEK.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\obj\Debug\ENTITYORNEK.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\obj\Debug\ENTITYORNEK.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\obj\Debug\ENTITYORNEK.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\obj\Debug\ENTITYORNEK.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\bin\Debug\ENTITYORNEK.exe.config
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\bin\Debug\ENTITYORNEK.exe
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\bin\Debug\ENTITYORNEK.pdb
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\obj\Debug\ENTITYORNEK.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\obj\Debug\ENTITYORNEK.exe
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\obj\Debug\ENTITYORNEK.pdb
+C:\Users\LENOVO\source\repos\ENTITYORNEK\ENTITYORNEK\obj\Debug\ENTITYORNEK.BtnLingEntity.resources
